@@ -2,7 +2,7 @@
 
 - 🔭 Apaixonado por tecnologia, vejo no desenvolvimento de software uma oportunidade para ingressar em um mundo de inovação e solução de problemas.
 - 🌱 Já passado pelos módulos de Fundamentos e Front-End na Trybe, atualmente cursando o módulo de Back-End.
-- 🌱 Atualmente aprendendo ORM(Sequelize e Prisma), Node.js e TypeScript.
+- 🌱 Atualmente aprendendo ORM(Sequelize e Prisma), Node.js, AdonisJS, e TypeScript.
 
 <div align="center">
   <a href="https://github.com/AirtonL">
