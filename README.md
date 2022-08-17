@@ -1,8 +1,8 @@
 ### Olá, me chamo Airton! 👋
 
 - 🔭 Apaixonado por tecnologia, vejo no desenvolvimento de software uma oportunidade para ingressar em um mundo de inovação e solução de problemas.
-- 🌱 Já passado pelos módulos de Fundamentos e Front-End na Trybe, atualmente cursando o módulo de Back-End.
-- 🌱 Atualmente aprendendo ORM(Sequelize e Prisma), Node.js, AdonisJS, e TypeScript.
+- 🌱 Já passado pelos módulos de Fundamentos, Front-End e Back-End na Trybe, atualmente cursando o módulo de Ciências da computação.
+- 🌱 Atualmente aprendendo ORM(Sequelize e Prisma), Node.js, AdonisJS, TypeScript, Python e principios de SOLID.
 
 <div align="center">
   <a href="https://github.com/AirtonL">
